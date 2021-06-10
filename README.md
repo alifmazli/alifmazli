@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt Text](https://64.media.tumblr.com/23944d07f77e41a2d4130e08afe72ddf/tumblr_opa734v1F01qkejxno1_400.gif)
 
 <!--
 **alifmazli/alifmazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
