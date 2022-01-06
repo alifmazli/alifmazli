@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Tutor and Techie
 
-- 🌱 I’m currently a student taking Bachelor of Computer Science (Software Engineering) in University of Malaya
+- 🌱 I’m currently a student taking Bachelor of Computer Science (Software Engineering) in Universiti Malaya
 - ✏ I'm a tutor for secondary-level Mathematics and Additional Mathematics
 - ❤️ I love learning new technologies and collaborating with others
 
