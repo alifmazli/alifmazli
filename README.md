@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Tutor and Techie
 
-- 💻 A software engineer intern at Dell Technologies
-- 🌱 A student taking Bachelor of Computer Science (Software Engineering) at Universiti Malaya
-- ✏ A tutor for secondary-level Mathematics and Additional Mathematics
-- ❤️ Loves learning new technologies and collaborating with others on projects
+- 💻 I'm a software engineer intern at Dell Technologies
+- 🎓 I'm a third-year student taking Bachelor of Computer Science (Software Engineering) at Universiti Malaya
+- 🌱 I'm currently looking to gain experience in the startup world
+- ❤️ I love learning new technologies and collaborating with others on projects, so hit me up!
 
 ## Analytics
 
