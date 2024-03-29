@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 💻 Tech lead and full stack dev at a startup
+- 💻 Software Engineer at a startup
 - 👨🏽‍💻 Ex-Dell intern
 - 🎓 First-class graduate of B.CS (Software Engineering) at [Universiti Malaya](https://www.um.edu.my/)
 - 🌱 Interested in startups
